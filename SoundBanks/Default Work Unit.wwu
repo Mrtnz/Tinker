@@ -5,6 +5,7 @@
 			<ChildrenList>
 				<SoundBank Name="Scene_1" ID="{2E6A0BD3-A32D-4B74-8822-082146F8BA08}">
 					<ObjectInclusionList>
+						<ObjectRef Name="baby footsteps" ID="{5556F4B9-04B8-47DB-9E06-00B9E8B96700}" WorkUnitID="{46CD170C-5929-4606-8A60-5CA7A1C128FA}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="baby noises" ID="{768A1431-2B62-499B-B601-4FB48669272B}" WorkUnitID="{46CD170C-5929-4606-8A60-5CA7A1C128FA}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>

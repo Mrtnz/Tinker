@@ -135,6 +135,150 @@
 								</Sound>
 							</ChildrenList>
 						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="baby footsteps" ID="{5556F4B9-04B8-47DB-9E06-00B9E8B96700}" ShortID="257460954">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2B54ADF2-3A92-4843-B05B-417BC1E0960E}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{250C7DFF-1144-40AD-92EE-7539F3932215}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="Footsteps_Mattress_01" ID="{619D14D7-B6E0-45C1-A12C-51D86C2AFFD6}" ShortID="814604114">
+									<PropertyList>
+										<Property Name="IsVoice" Type="bool" Value="True"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2B54ADF2-3A92-4843-B05B-417BC1E0960E}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{250C7DFF-1144-40AD-92EE-7539F3932215}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Footsteps_Mattress_01" ID="{2A20DBDB-C594-4B5C-B1DE-BF468B18BAA0}" ShortID="824029925">
+											<Language>English(US)</Language>
+											<AudioFile>Footsteps_Mattress_01.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Footsteps_Mattress_01" ID="{2A20DBDB-C594-4B5C-B1DE-BF468B18BAA0}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Footsteps_Mattress_02" ID="{8DC5F505-2BBA-4290-B5FF-910DA963E741}" ShortID="220339704">
+									<PropertyList>
+										<Property Name="IsVoice" Type="bool" Value="True"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2B54ADF2-3A92-4843-B05B-417BC1E0960E}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{250C7DFF-1144-40AD-92EE-7539F3932215}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Footsteps_Mattress_02" ID="{B0D6D035-79CB-4ED6-96B5-602BEA148A1D}" ShortID="821550268">
+											<Language>English(US)</Language>
+											<AudioFile>Footsteps_Mattress_02.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Footsteps_Mattress_02" ID="{B0D6D035-79CB-4ED6-96B5-602BEA148A1D}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Footsteps_Mattress_03" ID="{4310F4F9-F65B-4C6C-AD03-61CB618E6F6E}" ShortID="266934544">
+									<PropertyList>
+										<Property Name="IsVoice" Type="bool" Value="True"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2B54ADF2-3A92-4843-B05B-417BC1E0960E}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{250C7DFF-1144-40AD-92EE-7539F3932215}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Footsteps_Mattress_03" ID="{705A1BD9-4F81-4209-9BE1-D2DF67699A9B}" ShortID="946595177">
+											<Language>English(US)</Language>
+											<AudioFile>Footsteps_Mattress_03.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Footsteps_Mattress_03" ID="{705A1BD9-4F81-4209-9BE1-D2DF67699A9B}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Footsteps_Mattress_04" ID="{EEB35F3A-5ABD-4597-A200-F72248D91CA4}" ShortID="912589812">
+									<PropertyList>
+										<Property Name="IsVoice" Type="bool" Value="True"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2B54ADF2-3A92-4843-B05B-417BC1E0960E}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{250C7DFF-1144-40AD-92EE-7539F3932215}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Footsteps_Mattress_04" ID="{2B2709FB-D621-4EFE-B81B-D84136CA4177}" ShortID="175107260">
+											<Language>English(US)</Language>
+											<AudioFile>Footsteps_Mattress_04.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Footsteps_Mattress_04" ID="{2B2709FB-D621-4EFE-B81B-D84136CA4177}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Footsteps_Mattress_05" ID="{C297ADA4-CA04-4187-9F70-24803DE75EE8}" ShortID="426480849">
+									<PropertyList>
+										<Property Name="IsVoice" Type="bool" Value="True"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2B54ADF2-3A92-4843-B05B-417BC1E0960E}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{250C7DFF-1144-40AD-92EE-7539F3932215}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Footsteps_Mattress_05" ID="{64C20ABF-5E14-41FC-9C34-CAFBC02BADDF}" ShortID="870177267">
+											<Language>English(US)</Language>
+											<AudioFile>Footsteps_Mattress_05.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Footsteps_Mattress_05" ID="{64C20ABF-5E14-41FC-9C34-CAFBC02BADDF}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Footsteps_Mattress_06" ID="{91B8DBD4-22BD-42A2-90F0-B602F51E11A6}" ShortID="571380080">
+									<PropertyList>
+										<Property Name="IsVoice" Type="bool" Value="True"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2B54ADF2-3A92-4843-B05B-417BC1E0960E}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{250C7DFF-1144-40AD-92EE-7539F3932215}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Footsteps_Mattress_06" ID="{5E7338FD-2525-41D4-8F4C-F587A5366F4B}" ShortID="705529552">
+											<Language>English(US)</Language>
+											<AudioFile>Footsteps_Mattress_06.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Footsteps_Mattress_06" ID="{5E7338FD-2525-41D4-8F4C-F587A5366F4B}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
 					</ChildrenList>
 				</ActorMixer>
 			</ChildrenList>

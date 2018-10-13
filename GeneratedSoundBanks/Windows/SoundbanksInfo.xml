@@ -23,6 +23,10 @@
 					<ShortName>BabyNoises_04.wav</ShortName>
 					<Path>Voices\English(US)\BabyNoises_04_56D34C19.wem</Path>
 				</File>
+				<File Id="175107260" Language="English(US)">
+					<ShortName>Footsteps_Mattress_04.wav</ShortName>
+					<Path>Voices\English(US)\Footsteps_Mattress_04_56D34C19.wem</Path>
+				</File>
 				<File Id="312645629" Language="English(US)">
 					<ShortName>BabyNoises_05.wav</ShortName>
 					<Path>Voices\English(US)\BabyNoises_05_56D34C19.wem</Path>
@@ -35,9 +39,29 @@
 					<ShortName>BabyNoises_07.wav</ShortName>
 					<Path>Voices\English(US)\BabyNoises_07_56D34C19.wem</Path>
 				</File>
+				<File Id="705529552" Language="English(US)">
+					<ShortName>Footsteps_Mattress_06.wav</ShortName>
+					<Path>Voices\English(US)\Footsteps_Mattress_06_56D34C19.wem</Path>
+				</File>
+				<File Id="821550268" Language="English(US)">
+					<ShortName>Footsteps_Mattress_02.wav</ShortName>
+					<Path>Voices\English(US)\Footsteps_Mattress_02_56D34C19.wem</Path>
+				</File>
+				<File Id="824029925" Language="English(US)">
+					<ShortName>Footsteps_Mattress_01.wav</ShortName>
+					<Path>Voices\English(US)\Footsteps_Mattress_01_56D34C19.wem</Path>
+				</File>
 				<File Id="854984924" Language="English(US)">
 					<ShortName>BabyNoises_06.wav</ShortName>
 					<Path>Voices\English(US)\BabyNoises_06_56D34C19.wem</Path>
+				</File>
+				<File Id="870177267" Language="English(US)">
+					<ShortName>Footsteps_Mattress_05.wav</ShortName>
+					<Path>Voices\English(US)\Footsteps_Mattress_05_56D34C19.wem</Path>
+				</File>
+				<File Id="946595177" Language="English(US)">
+					<ShortName>Footsteps_Mattress_03.wav</ShortName>
+					<Path>Voices\English(US)\Footsteps_Mattress_03_56D34C19.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

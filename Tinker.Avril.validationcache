@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="89">
-	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1539415032" DateHigh="0"/>
+	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1539415268" DateHigh="0"/>
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Attenuations\Default Work Unit.wwu" DateLow="1539415033" DateHigh="0"/>
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Audio Devices\Default Work Unit.wwu" DateLow="1539415032" DateHigh="0"/>
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Control Surface Sessions\Default Work Unit.wwu" DateLow="1539415032" DateHigh="0"/>
@@ -9,7 +9,7 @@
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1539415033" DateHigh="0"/>
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Effects\Default Work Unit.wwu" DateLow="1539415032" DateHigh="0"/>
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Effects\Factory Effects.wwu" DateLow="1539141031" DateHigh="0"/>
-	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Events\Default Work Unit.wwu" DateLow="1539415032" DateHigh="0"/>
+	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Events\Default Work Unit.wwu" DateLow="1539415268" DateHigh="0"/>
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Game Parameters\Default Work Unit.wwu" DateLow="1539415032" DateHigh="0"/>
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1539415032" DateHigh="0"/>
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1539415032" DateHigh="0"/>
@@ -18,10 +18,11 @@
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Presets\Default Work Unit.wwu" DateLow="1539415032" DateHigh="0"/>
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Queries\Default Work Unit.wwu" DateLow="1539415033" DateHigh="0"/>
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Queries\Factory Queries.wwu" DateLow="1539141031" DateHigh="0"/>
-	<ValidationCacheItem File="V:\WwiseProjects\Tinker\SoundBanks\Default Work Unit.wwu" DateLow="1539415032" DateHigh="0"/>
+	<ValidationCacheItem File="V:\WwiseProjects\Tinker\SoundBanks\Default Work Unit.wwu" DateLow="1539415268" DateHigh="0"/>
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1539415032" DateHigh="0"/>
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\States\Default Work Unit.wwu" DateLow="1539415032" DateHigh="0"/>
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Switches\Default Work Unit.wwu" DateLow="1539415032" DateHigh="0"/>
+	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Tinker.Avril.wsettings" DateLow="1539415294" DateHigh="0"/>
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Tinker.wproj" DateLow="1539415032" DateHigh="0"/>
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Triggers\Default Work Unit.wwu" DateLow="1539415033" DateHigh="0"/>
 	<ValidationCacheItem File="V:\WwiseProjects\Tinker\Virtual Acoustics\Default Work Unit.wwu" DateLow="1539415032" DateHigh="0"/>
