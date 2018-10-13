@@ -1,0 +1,10 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1127474128	Play_baby_noises			\Default Work Unit\Play_baby_noises	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	49916450	BabyNoises_04	V:\WwiseProjects\Tinker\.cache\Windows\Voices\English(US)\BabyNoises_04_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\baby\baby noises\BabyNoises_04		108648
+	312645629	BabyNoises_05	V:\WwiseProjects\Tinker\.cache\Windows\Voices\English(US)\BabyNoises_05_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\baby\baby noises\BabyNoises_05		126614
+	537200019	BabyNoises_08	V:\WwiseProjects\Tinker\.cache\Windows\Voices\English(US)\BabyNoises_08_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\baby\baby noises\BabyNoises_08		294110
+	559553547	BabyNoises_07	V:\WwiseProjects\Tinker\.cache\Windows\Voices\English(US)\BabyNoises_07_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\baby\baby noises\BabyNoises_07		146282
+	854984924	BabyNoises_06	V:\WwiseProjects\Tinker\.cache\Windows\Voices\English(US)\BabyNoises_06_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\baby\baby noises\BabyNoises_06		95296
+

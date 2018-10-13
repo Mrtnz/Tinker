@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{340E379B-F40C-45CD-B307-95336B7B0BC1}" SchemaVersion="89">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{340E379B-F40C-45CD-B307-95336B7B0BC1}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Scene_1" ID="{2E6A0BD3-A32D-4B74-8822-082146F8BA08}">
+					<ObjectInclusionList>
+						<ObjectRef Name="baby noises" ID="{768A1431-2B62-499B-B601-4FB48669272B}" WorkUnitID="{46CD170C-5929-4606-8A60-5CA7A1C128FA}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
